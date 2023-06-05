@@ -1,1 +1,1 @@
-# 03MIAR---Algoritmos-de-Optimizaci-n
+# 03MIAR---Algoritmos-de-Optimizacion
